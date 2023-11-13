@@ -51,9 +51,9 @@ const Header = () => {
       {
       /* PAGES MEGA MENU */
     }
-      <MegaMenu />
+      {/* <MegaMenu /> */}
 
-      <Box component={Link} href="/components" color={isActive("/") ? "primary.main" : "text.primary"}>
+      {/* <Box component={Link} href="/components" color={isActive("/") ? "primary.main" : "text.primary"}>
         Components
       </Box>
 
@@ -61,7 +61,7 @@ const Header = () => {
         Documentation
       </Box>
 
-      <Button>Buy Now</Button>
+      <Button>Buy Now</Button> */}
     </FlexBox>; // FOR SMALL AND MEDIUM SCREEN DEVICE
 
   const SMALL_DEVICE_CONTENT = <Fragment>

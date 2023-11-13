@@ -50,7 +50,7 @@ const HeaderDark = () => {
       {
       /* PAGES MEGA MENU */
     }
-      <MegaMenu isDark />
+      {/* <MegaMenu isDark /> */}
 
       {/* <Box component={Link} href="/components" color={isActive("/components") ? "primary.main" : "white"}>
         Components
