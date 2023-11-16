@@ -5,6 +5,7 @@ import Container from "@mui/material/Container"; // CUSTOM PAGE SECTIONS COMPONE
 
 import Footer from "../Footer";
 import Section1 from "../Section1";
+import Section1_5 from "../Section1.5"
 import Section2 from "../Section2";
 import Section3 from "../Section3";
 import Section4 from "../Section4";
@@ -29,9 +30,7 @@ const LandingPageView = () => {
     }
       <Section1 />
 
-      {
-      /* CORE FEATURES AREA */
-    }
+     <Section1_5 />
       <Section2 />
 
       {

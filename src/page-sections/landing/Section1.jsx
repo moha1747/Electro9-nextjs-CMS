@@ -84,12 +84,7 @@ const Section1 = () => {
           </Paragraph>
 
           <Stack mt={6} direction="row" gap={2} alignItems="center" justifyContent="center">
-            {/* <Button onClick={() => navigate("/components")} sx={{
-            paddingInline: 3,
-            paddingBlock: 1
-          }}>
-              Browse Components
-            </Button> */}
+            
 
             <Button variant="outlined" onClick={() => navigate("/dashboard")} sx={{
             paddingInline: 3,
@@ -104,7 +99,7 @@ const Section1 = () => {
           <ShadowBox value={0.02}>
             <ShadowBox value={0.025} textAlign="center">
               <ImageBox>
-                <Card alt="demo" width={1178} height={1024} component={Image} src="/static/landing/dashboard.jpg" sx={{
+                <Card alt="demo" width={1178} height={1024} component={Image} src="public/HeroSAAS1.png" sx={{
                 zIndex: 1,
                 height: "auto",
                 width: "100%",

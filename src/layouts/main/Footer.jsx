@@ -21,7 +21,7 @@ const Footer = () => {
               <Box alt="logo" width={40} height={40} component="img" src="/static/logo/logo-svg.svg" />
 
               <Paragraph fontSize={28} fontWeight={600}>
-                QuickFrame
+                Electro
               </Paragraph>
             </FlexBox>
 
@@ -31,7 +31,7 @@ const Footer = () => {
             md: 2,
             xs: 0
           }}>
-              QuickFrame SaaS template is a powerful and versatile software application that provides a
+              Electro's SaaS template is a powerful and versatile software application that provides a
               comprehensive framework for building and delivering cloud-based solutions.
             </Paragraph>
           </Grid>
