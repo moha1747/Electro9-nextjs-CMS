@@ -6,35 +6,35 @@ export const navigations = [{
   label: "Dashboard"
 }, {
   name: "Analytics 1",
-path: "/dashboard",
+path: "/dashboard/Analytics-1",
   icon: duotone.PersonChalkboard
 }, {
   name: "Analytics 2",
-path: "/dashboard",
+path: "/dashboard/Analytics-2",
   icon: duotone.BadgeDollar
 }, {
   name: "Ecommerce",
-path: "/dashboard",
+path: "/dashboard/ecommerce",
   icon: duotone.RectangleCirclePlus
 }, {
   name: "CRM",
-path: "/dashboard",
+path: "/dashboard/crm",
   icon: duotone.CommentsQuestionCheck
 }, {
   name: "Logistics",
-path: "/dashboard",
+path: "/dashboard/logistics",
   icon: duotone.DiagramProject
 }, {
   name: "Marketing",
-path: "/dashboard",
+path: "/dashboard/marketing",
   icon: duotone.LayerGroup
 }, {
   name: "Finance 1",
-path: "/dashboard",
+path: "/dashboard/finance",
   icon: duotone.MessagesDollar
 }, {
   name: "Finance 2",
-path: "/dashboard",
+path: "/dashboard/finance-2",
   icon: duotone.PersonCircleCheck
 }, {
   type: "label",
@@ -42,81 +42,81 @@ path: "/dashboard",
 }, {
   name: "Profiles",
   icon: duotone.UserProfile,
-path: "/dashboard",
+path: "/dashboard/profile",
 }, {
   name: "Accounts",
   icon: duotone.Accounts,
-path: "/dashboard",
+path: "/dashboard/account",
 }, {
   name: "Users",
   icon: duotone.UserList,
   children: [{
     name: "Add User",
-path: "/dashboard",
+    path: "/dashboard/users/add-user"
   }, {
     name: "User List 1",
-path: "/dashboard",
+    path: "/dashboard/users/user-list-1"
   }, {
     name: "User Grid 1",
-path: "/dashboard",
+    path: "/dashboard/users/user-grid-1"
   }, {
     name: "User List 2",
-path: "/dashboard",
+    path: "/dashboard/users/user-list-2"
   }, {
     name: "User Grid 2",
-path: "/dashboard",
+    path: "/dashboard/users/user-grid-2"
   }]
 }, {
   name: "Products",
   icon: duotone.AdminEcommerce,
   children: [{
     name: "Product List",
-path: "/dashboard",
+    path: "/dashboard/products/product-list-view"
   }, {
     name: "Product Grid",
-path: "/dashboard",
+    path: "/dashboard/products/product-grid-view"
   }, {
     name: "Create Product",
-path: "/dashboard",
+    path: "/dashboard/products/create-product"
   }, {
     name: "Product Details",
-path: "/dashboard",
+    path: "/dashboard/products/product-details"
   }]
 }, {
   name: "Invoice",
   icon: duotone.Invoice,
   children: [{
     name: "Invoice List",
-path: "/dashboard",
+    path: "/dashboard/invoices/invoice-list"
   }, {
     name: "Invoice Details",
-path: "/dashboard",
+    path: "/dashboard/invoices/invoice-details"
   }, {
     name: "Create Invoice",
-path: "/dashboard",
+    path: "/dashboard/invoices/create-invoice"
   }]
 }, {
   name: "Ecommerce",
   icon: duotone.Ecommerce,
   children: [{
     name: "Cart",
-path: "/dashboard",
+    path: "/dashboard/cart"
   }, {
     name: "Payment",
-path: "/dashboard",
+    path: "/dashboard/payment"
   }, {
     name: "Billing Address",
-path: "/dashboard",
+    path: "/dashboard/billing-address"
   }, {
     name: "Payment Complete",
-path: "/dashboard",
+    path: "/dashboard/payment-complete"
   }]
 }, {
   name: "Data Table",
   icon: duotone.DataTable,
   children: [{
     name: "Data Table 1",
-path: "/dashboard",
+    path: "/dashboard/data-tables/table-1"
   }]
 }, {
   type: "label",
@@ -124,36 +124,36 @@ path: "/dashboard",
 }, {
   name: "Todo List",
   icon: duotone.TodoList,
-path: "/dashboard",
+  path: "/dashboard/todo-list"
 }, {
   name: "Chats",
   icon: duotone.Chat,
-path: "/dashboard",
+  path: "/dashboard/chat"
 }, {
   name: "Email",
   icon: duotone.Inbox,
   children: [{
     name: "Inbox",
-path: "/dashboard",
+    path: "/dashboard/email/all"
   }, {
     name: "Email Details",
-path: "/dashboard",
+    path: "/dashboard/email/details"
   }, {
     name: "Create Email",
-path: "/dashboard",
+    path: "/dashboard/email/compose"
   }]
 }, {
   name: "Sessions",
   icon: duotone.Session,
   children: [{
     name: "Login",
-path: "/dashboard",
+    path: "/login"
   }, {
     name: "Register",
-path: "/dashboard",
+    path: "/register"
   }, {
     name: "Forget Password",
-path: "/dashboard",
+    path: "/forget-password"
   }]
 }
 // }, {
