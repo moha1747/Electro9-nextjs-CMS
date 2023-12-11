@@ -6,7 +6,7 @@ export const navigations = [{
   label: "Dashboard"
 }, {
   name: "Analytics 1",
-path: "/dashboard/analytics-1",
+path: "/dashboard/analytics",
   icon: duotone.PersonChalkboard
 }, {
   name: "Analytics 2",
