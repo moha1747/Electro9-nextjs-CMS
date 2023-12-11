@@ -142,7 +142,6 @@ const HeaderDark = () => {
       /* QUICKFRAME LOGO */
     }
       <Box display="flex" component={Link} href="/" alignItems="center" gap={0.5}>
-        <img src="/" alt="logo" width={40} height={40} />
         <Paragraph fontSize={20} fontWeight={600} color="white">
 Electro        </Paragraph>
       </Box>
