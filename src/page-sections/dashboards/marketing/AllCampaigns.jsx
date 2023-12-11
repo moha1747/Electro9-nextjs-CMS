@@ -97,11 +97,11 @@ const AllCampaigns = () => {
                   height: 30
                 }
               }}>
-                    <Avatar alt="Remy Sharp" src="/static/user/user-11.png" />
-                    <Avatar alt="Travis Howard" src="/static/user/user-10.png" />
-                    <Avatar alt="Cindy Baker" src="/static/user/user-13.png" />
-                    <Avatar alt="Agnes Walker" src="/static/user/user-14.png" />
-                    <Avatar alt="Trevor Henderson" src="/static/user/user-15.png" />
+                    <Avatar alt="P" src="/static/user/user.png" />
+                    <Avatar alt="P" src="/static/user/user.png" />
+                    <Avatar alt="P" src="/static/user/user.png" />
+                    <Avatar alt="P" src="/static/user/user.png" />
+                    <Avatar alt="P" src="/static/user/user.png" />
                   </AvatarGroup>
                 </BodyTableCell>
 

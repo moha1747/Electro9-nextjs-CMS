@@ -15,31 +15,31 @@ const DATA = [{
   id: nanoid(),
   status: "Won Lead",
   status_type: "success",
-  email: "astole@gmail.com",
+  email: "Person@gmail.com",
   user: {
-    name: "Astole Banne",
+    name: "Person",
     balance: 25360.0,
-    image: "/static/user/user-11.png"
+    image: "/static/user/user.png"
   }
 }, {
   id: nanoid(),
   status: "Cold Lead",
   status_type: "warning",
-  email: "taslon@gmail.com",
+  email: "Person@gmail.com",
   user: {
-    name: "Taslon Abela",
+    name: "Person ",
     balance: 25360.0,
-    image: "/static/user/user-17.png"
+    image: "/static/user/user.png"
   }
 }, {
   id: nanoid(),
   status: "New Lead",
   status_type: "error",
-  email: "tofan@gmail.com",
+  email: "Personn@gmail.com",
   user: {
-    name: "Tofan Andy",
+    name: "Person",
     balance: 25360.0,
-    image: "/static/user/user-18.png"
+    image: "/static/user/user.png"
   }
 }];
 

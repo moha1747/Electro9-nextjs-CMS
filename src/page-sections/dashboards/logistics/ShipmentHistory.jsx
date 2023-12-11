@@ -19,7 +19,7 @@ const DATA = [{
   address: "Rome, Italy.",
   image: "/static/products/apple-watch.png",
   user: {
-    name: "Astole Banne",
+    name: "Person",
     balance: 560
   }
 }, {
@@ -30,7 +30,7 @@ const DATA = [{
   address: "Bangkok, Singapore",
   image: "/static/products/shoe-1.png",
   user: {
-    name: "Talon Abela",
+    name: "Person",
     balance: 250.5
   }
 }, {
@@ -41,7 +41,7 @@ const DATA = [{
   address: "Paris, France",
   image: "/static/products/sunglass.png",
   user: {
-    name: "Tofan Andy",
+    name: "Person",
     balance: 150.25
   }
 }, {
@@ -52,7 +52,7 @@ const DATA = [{
   address: "New York, USA",
   image: "/static/products/headset.png",
   user: {
-    name: "Jhon Ables",
+    name: "Person",
     balance: 799.25
   }
 }];

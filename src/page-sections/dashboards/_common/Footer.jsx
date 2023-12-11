@@ -25,17 +25,7 @@ const StyledCard = styled(Card)(({
 
 const Footer = () => {
   return <StyledCard>
-      <Box>
-        <Paragraph fontSize={20} fontWeight={600}>
-          QuickFrame Admin Template
-        </Paragraph>
 
-        <Paragraph color="text.secondary" mb={3}>
-          Clean UI design & Well documentation
-        </Paragraph>
-
-        <Button>Buy Now</Button>
-      </Box>
 
       <Box>
         <FlexBox alignItems="center" gap={2}>

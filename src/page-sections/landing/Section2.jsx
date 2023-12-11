@@ -5,35 +5,38 @@ import { H2, H6, Paragraph } from "components/typography"; // DUMMY DATA
 const LIST_1 = [{
   id: 1,
   image: "/static/landing/icons/award.svg",
-  title: "Crafted by Professionals",
-  description: `Lorem Ipsum...`
+  title: "Client Engagement Optimization",
+  description: "Expertly designed to meet the dynamic needs of social media marketing, ensuring efficient client management and streamlined workflows."
 }, {
   id: 2,
   image: "/static/landing/icons/logos.svg",
-  title: "Modern Technologies",
-  description: `Lorem Ipsum...`
+  title: "Advanced Analytics Integration",
+  description: "Incorporates the latest in digital marketing tools and analytics, enabling you to stay ahead in the ever-evolving social media landscape."
 }, {
   id: 3,
   image: "/static/landing/icons/check_bucket.svg",
-  title: "Clean Code",
-  description: `Lorem Ipsum...`
+  title: "High-Performance Framework",
+  description: "Built with clean, efficient code ensuring reliable performance and easy customization to suit your specific marketing strategies."
 }];
+
 const LIST_2 = [{
   id: 1,
   image: "/static/landing/icons/brush.svg",
-  title: "Design Files",
-  description: `Lorem Ipsum...`
+  title: "Creative Content Toolkit",
+  description: "Access a variety of design templates and tools to create engaging social media content that resonates with your audience."
 }, {
   id: 2,
   image: "/static/landing/icons/recovery.svg",
-  title: "Flexible Structure",
-  description: `Lorem Ipsum...`
+  title: "Adaptive Workflow Design",
+  description: "Enjoy a flexible and intuitive interface that adapts to your unique workflow, making client management and campaign tracking seamless."
 }, {
   id: 3,
   image: "/static/landing/icons/paint_bucket.svg",
-  title: "Easy to Customize",
-  description: `Lorem Ipsum...`
+  title: "Custom Branding Features",
+  description: "Easily tailor the dashboard to your agency's branding and client-specific needs, enhancing both user experience and client satisfaction."
 }];
+
+
 
 const Section2 = () => {
   return <Container maxWidth="lg" sx={{

@@ -18,9 +18,9 @@ const DATA = [{
   status_type: "success",
   company: "Absternet LLC",
   user: {
-    name: "Astole Banne",
+    name: "Person",
     designation: "Sales Manager",
-    image: "/static/user/user-11.png"
+    image: "/static/user/user.png"
   }
 }, {
   id: nanoid(),
@@ -29,9 +29,9 @@ const DATA = [{
   status_type: "error",
   company: "Nike",
   user: {
-    name: "Lisa Bee",
+    name: "Person",
     designation: "Sales Manager",
-    image: "/static/user/user-11.png"
+    image: "/static/user/user.png"
   }
 }, {
   id: nanoid(),
@@ -40,9 +40,9 @@ const DATA = [{
   status_type: "warning",
   company: "Absternet LLC",
   user: {
-    name: "Stuward Canne",
+    name: "Person",
     designation: "Sales Manager",
-    image: "/static/user/user-11.png"
+    image: "/static/user/user.png"
   }
 }];
 

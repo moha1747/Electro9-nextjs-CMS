@@ -12,24 +12,24 @@ const DATA = [{
   dealWon: 25000,
   balance: 25360.0,
   owner: {
-    name: "Astole Banne",
-    image: "/static/user/user-11.png"
+    name: "Person",
+    image: "/"
   }
 }, {
   id: nanoid(),
   dealWon: 25000,
   balance: 25360.0,
   owner: {
-    name: "Jhone Abela",
-    image: "/static/user/user-16.png"
+    name: "Person",
+    image: "/"
   }
 }, {
   id: nanoid(),
   dealWon: 25000,
   balance: 25360.0,
   owner: {
-    name: "Lisa Been",
-    image: "/static/user/user-17.png"
+    name: "Person",
+    image: "/"
   }
 }];
 

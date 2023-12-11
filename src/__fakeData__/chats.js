@@ -5,7 +5,8 @@ export const PIN_CHATS = [{
   lastMsgSeen: false,
   name: "Aiony Haust",
   isLastMsgIncoming: false,
-  image: "/static/user/user-19.png",
+  image: "/",
+
   lastMsg: "Tell me about somthing?",
   time: Date.parse("Feb 14, 2023, 17:00")
 }, {
@@ -15,7 +16,8 @@ export const PIN_CHATS = [{
   name: "Yev Ledenov",
   isLastMsgIncoming: false,
   lastMsg: "Can you send some demo?",
-  image: "/static/user/user-11.png",
+  image: "/",
+
   time: Date.parse("Feb 14, 2023, 19:15")
 }];
 export const RECENT_CHATS = [{
@@ -24,7 +26,8 @@ export const RECENT_CHATS = [{
   lastMsgSeen: false,
   name: "Aiony Haust",
   isLastMsgIncoming: false,
-  image: "/static/user/user-19.png",
+  image: "/",
+
   lastMsg: "Tell me about somthing?",
   time: Date.parse("Feb 14, 2023, 17:00")
 }, {
@@ -34,7 +37,8 @@ export const RECENT_CHATS = [{
   name: "Yev Ledenov",
   isLastMsgIncoming: false,
   lastMsg: "Can you send some demo?",
-  image: "/static/user/user-11.png",
+  image: "/",
+
   time: Date.parse("Feb 14, 2023, 19:15")
 }, {
   id: nanoid(),
@@ -42,7 +46,8 @@ export const RECENT_CHATS = [{
   lastMsgSeen: false,
   name: "Vicky Hladynets",
   isLastMsgIncoming: true,
-  image: "/static/user/user-16.png",
+  image: "/",
+
   lastMsg: "Can you send some demo?",
   time: Date.parse("Feb 14, 2023, 17:00")
 }, {
@@ -52,7 +57,8 @@ export const RECENT_CHATS = [{
   name: "Julian Wan",
   isLastMsgIncoming: false,
   lastMsg: "Thank You",
-  image: "/static/user/user-11.png",
+  image: "/",
+
   time: Date.parse("Feb 14, 2023, 19:15")
 }, {
   id: nanoid(),
@@ -60,7 +66,8 @@ export const RECENT_CHATS = [{
   lastMsgSeen: false,
   name: "Aiony Haust",
   isLastMsgIncoming: false,
-  image: "/static/user/user-18.png",
+  image: "/",
+
   lastMsg: "Tell me about somthing?",
   time: Date.parse("Feb 14, 2023, 17:00")
 }, {
@@ -70,7 +77,8 @@ export const RECENT_CHATS = [{
   name: "Yev Ledenov",
   isLastMsgIncoming: false,
   lastMsg: "Can you send some demo?",
-  image: "/static/user/user-11.png",
+  image: "/",
+
   time: Date.parse("Feb 14, 2023, 19:15")
 }, {
   id: nanoid(),
@@ -78,7 +86,8 @@ export const RECENT_CHATS = [{
   lastMsgSeen: false,
   name: "Vicky Hladynets",
   isLastMsgIncoming: true,
-  image: "/static/user/user-16.png",
+  image: "/",
+
   lastMsg: "Can you send some demo?",
   time: Date.parse("Feb 14, 2023, 17:00")
 }, {
@@ -88,6 +97,7 @@ export const RECENT_CHATS = [{
   name: "Julian Wan",
   isLastMsgIncoming: false,
   lastMsg: "Thank You",
-  image: "/static/user/user-11.png",
+  image: "/",
+
   time: Date.parse("Feb 14, 2023, 19:15")
 }];
