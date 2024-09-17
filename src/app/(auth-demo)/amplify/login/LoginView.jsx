@@ -25,7 +25,7 @@ const LoginView = () => {
   const [isLoading, setIsLoading] = useState(false);
   const [showPassword, setShowPassword] = useState(false);
   const initialValues = {
-    email: "dummy@example",
+    email: "dummy@example.com",
     password: "dummyPass",
     remember: true
   };
