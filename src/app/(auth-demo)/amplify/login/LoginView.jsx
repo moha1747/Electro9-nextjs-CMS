@@ -25,8 +25,8 @@ const LoginView = () => {
   const [isLoading, setIsLoading] = useState(false);
   const [showPassword, setShowPassword] = useState(false);
   const initialValues = {
-    email: "nabed420@gmail.com",
-    password: "123456",
+    email: "dummy@example",
+    password: "dummyPass",
     remember: true
   };
   const validationSchema = Yup.object().shape({

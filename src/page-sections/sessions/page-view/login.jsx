@@ -40,7 +40,7 @@ const LoginPageView = () => {
   };
 
   const initialValues = {
-    email: "abbaas@code.com",
+    email: "jason@ui-lib.com",
     password: "dummyPass",
     remember: true
   };
